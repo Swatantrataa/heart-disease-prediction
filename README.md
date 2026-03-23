@@ -1,15 +1,15 @@
 # heart-disease-prediction
 
-This project uses machine learning to predict the likelihood of heart disease based on medical data.
+This project analyzes heart disease data using Microsoft Excel and presents insights through an interactive Power BI dashboard.
 
 ## Features
-- Data preprocessing
-- Model training
-- Prediction system
+- Data cleaning and preparation
+- Data analysis using Excel
+- Interactive dashboard using Power BI
 
 ## Tools Used
-- Python
-- Machine Learning
+- Microsoft Excel
+- Power BI
 
-## Outcome
-The model predicts whether a person is at risk of heart disease based on input data.
+## Dashboard
+The project includes a Power BI dashboard to visualize key insights and trends related to heart disease.
