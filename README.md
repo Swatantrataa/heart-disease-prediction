@@ -18,3 +18,6 @@ The project includes a Power BI dashboard to visualize key insights and trends r
 
 ## Additional Work
 Basic Python code has been included for heart disease prediction.
+
+## Created by
+Swatantrata Thakur
